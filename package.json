@@ -1,13 +1,13 @@
 {
-  "name": "react-native-i18n",
-  "version": "2.0.15",
+  "name": "@ln1778/react-native-i18n",
+  "version": "0.0.1",
   "description": "Provide I18n to your React Native application",
   "license": "MIT",
-  "author": "Alexander Zaytsev",
+  "author": "ln1778",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "github.com/AlexanderZaytsev/react-native-i18n.git"
+    "url": "github.com/ln1778/react-native-i18n.git"
   },
   "keywords": [
     "react-native",
@@ -17,5 +17,12 @@
   ],
   "dependencies": {
     "i18n-js": "3.0.11"
+  },
+  "directories": {
+    "doc": "docs",
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
