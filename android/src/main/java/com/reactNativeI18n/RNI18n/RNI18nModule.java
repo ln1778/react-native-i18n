@@ -1,4 +1,4 @@
-package com.AlexanderZaytsev.RNI18n;
+package com.reactNativeI18n.RNI18n;
 
 import android.os.Build;
 import android.os.LocaleList;
